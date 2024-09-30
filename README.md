@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GoFluent Report Builder<br>🌱 I’m currently learning NextJS<br>💬 Ask me about Web Development<br>⚡ Fun fact JavaScript was created in just 10 days by Brendan Eich in 1995. It was originally called Mocha, then renamed to LiveScript, and finally JavaScript.
+🌱 I’m currently learning NextJS<br>💬 Ask me about Web Development<br>⚡ Fun fact JavaScript was created in just 10 days by Brendan Eich in 1995. It was originally called Mocha, then renamed to LiveScript, and finally JavaScript.
 
 
 ## 🌐 Socials:
